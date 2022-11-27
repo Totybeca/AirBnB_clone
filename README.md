@@ -16,4 +16,4 @@ This command line interpreter  serves as the frontend of the web app where users
 
 Fashemore Toyin | Github: [Totybeca] 
 
-Sunday Gad | Github: [Sunday Gad]
+Sunday Gad | Github: [https://github.com/sunday-gad]
